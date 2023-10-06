@@ -1,0 +1,4 @@
+{
+"url":"https://easya.t-systems.es/box/index.php/s/111",
+"dir":"d:\web...."
+}
